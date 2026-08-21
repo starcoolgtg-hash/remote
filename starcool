@@ -1,1 +1,1 @@
-134227049G011980 SEND_FILE /data/local/tmp/hello.sh
+134227049G011980 screencap -p /sdcard/ss.png && SEND_PHOTO /sdcard/ss.png

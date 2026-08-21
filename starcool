@@ -1,1 +1,1 @@
-134227049G011980 reboot
+134227049G011980 am start -a android.media.action.STILL_IMAGE_CAMERA
